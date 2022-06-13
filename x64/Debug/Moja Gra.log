@@ -1,0 +1,350 @@
+﻿  GameOverState.cpp
+C:\Users\tomek\source\repos\Moja Gra\Pliki\WyborGry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(95,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(95,50): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(95,50): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(95,50): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(95,50): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(100,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(100,51): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(100,51): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(100,51): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(100,51): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(105,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(105,52): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(105,52): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(105,52): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(105,52): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(112,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(112,52): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(112,52): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(112,52): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(112,52): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,86): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,86): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,86): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,86): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,86): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,65): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,65): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,65): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,65): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(163,65): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,80): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,80): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,80): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,80): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,80): warning C4244:         ]
+  GameState.cpp
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,59): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,59): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,59): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameOverState.cpp(170,59): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\WyborGry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(49,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(49,45): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(49,45): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(49,45): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(49,45): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(55,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(55,46): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(55,46): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(55,46): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(55,46): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,79): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,79): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,79): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,79): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,79): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,58): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,58): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,58): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,58): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(154,58): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,78): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,78): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,78): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,78): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,57): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,57): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,57): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(158,57): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,78): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,78): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,78): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,78): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,57): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,57): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,57): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(162,57): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(340,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(340,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(340,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(340,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(340,10): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(341,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(341,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(341,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(341,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(341,10): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(343,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(343,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(343,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(343,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(343,10): warning C4244:         ]
+  MainMenuState.cpp
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(344,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(344,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(344,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(344,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\GameState.cpp(344,10): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\WyborGry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,83): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,83): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,83): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,83): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,83): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,62): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,62): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,62): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(81,62): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,88): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,88): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,88): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,88): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,88): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,67): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,67): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,67): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(87,67): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,88): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,88): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,88): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,88): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,88): warning C4244:         ]
+  Denerwuje.cpp
+  Fruit.cpp
+  GameOverDenerwujeState.cpp
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,67): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,67): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,67): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\Pliki\MainMenuState.cpp(94,67): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(93,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(93,50): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(93,50): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(93,50): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(93,50): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(98,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(98,51): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(98,51): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(98,51): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(98,51): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(103,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(103,52): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(103,52): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(103,52): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(103,52): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(110,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(110,52): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(110,52): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(110,52): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(110,52): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,86): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,86): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,86): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,86): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,86): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,65): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,65): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,65): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,65): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(159,65): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,80): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,80): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,80): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,80): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,80): warning C4244:         ]
+  GameStateDenerwuje.cpp
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,59): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,59): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,59): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameOverDenerwujeState.cpp(166,59): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(50,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(50,45): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(50,45): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(50,45): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(50,45): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(56,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(56,46): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(56,46): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(56,46): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(56,46): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,79): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,79): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,79): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,79): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,79): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,58): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,58): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,58): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,58): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(160,58): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,77): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,77): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,77): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,77): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,56): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,56): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,56): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(164,56): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,78): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,78): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,78): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,78): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,57): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,57): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,57): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(168,57): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(389,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(389,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(389,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(389,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(389,10): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(390,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(390,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(390,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(390,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(390,10): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(392,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(392,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(392,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(392,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(392,10): warning C4244:         ]
+  Snake.cpp
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(393,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(393,10): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(393,10): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(393,10): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\GameStateDenerwuje.cpp(393,10): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\wyborgry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,45): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,45): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,45): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,45): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,41): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,41): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,41): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(191,41): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,45): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,45): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,45): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,45): warning C4244:         ]
+  WyborGry.cpp
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,41): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,41): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,41): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\Snake.cpp(199,41): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,89): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,89): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,89): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,89): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,89): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,68): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,68): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,68): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,68): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(132,68): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,94): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,94): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,94): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,94): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,94): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,73): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,73): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,73): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,73): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(138,73): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,94): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,94): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,94): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,94): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,94): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,73): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,73): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,73): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,73): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(144,73): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,94): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,94): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,94): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,94): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,94): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,73): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,73): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,73): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,73): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(165,73): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,80): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,80): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,80): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,80): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,80): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,59): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,59): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,59): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(186,59): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,95): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,95): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,95): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,95): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,95): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,74): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,74): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,74): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(190,74): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,95): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,95): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,95): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,95): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,95): warning C4244:         ]
+  Zasady.cpp
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,74): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,74): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,74): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.cpp(195,74): warning C4244:         ]
+C:\Users\tomek\source\repos\Moja Gra\pliki\WyborGry.h(27,3): warning C4091: "typedef ": zignorowano na lewo od "Tomo::Gracz" podczas gdy brak deklaracji zmiennej
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,80): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,80): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,80): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,80): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,80): warning C4244:         ]
+  Generowanie kodu...
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,59): warning C4244:         with
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,59): warning C4244:         [
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,59): warning C4244:             T=float
+C:\Users\tomek\source\repos\Moja Gra\pliki\Zasady.cpp(47,59): warning C4244:         ]
+  Moja Gra.vcxproj -> C:\Users\tomek\source\repos\Moja Gra\x64\Debug\Moja Gra.exe
